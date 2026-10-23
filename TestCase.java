@@ -11,6 +11,5 @@ public class TestCase {
         result = (februaryDays == 28) ? "Leap Year" : "Not a Leap Year";
         System.out.println(result);
 
-        result.close();
     }
 }

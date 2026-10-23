@@ -13,5 +13,12 @@ public class ArrayElements {
         for(int i = 0; i < letters.length; i++) {
             System.out.println("Array Element: " + letters[i]);
         }
+
+        int i = 1, n = 5;
+
+        while(i <= n) {
+            System.out.println("Value of i: " + i);
+            i++;
+        }
     }
 }
